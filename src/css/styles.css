@@ -160,7 +160,7 @@ gap: 0.7rem;
   gap: 2.5rem;
   margin-top: 2em;
   position: relative;
-  background: url(/src/img/img-locations-background.webp) center no-repeat;
+    background: url(../../src/img/img-locations-background.webp) center no-repeat;
 }
 .locations header {
   position: absolute;
